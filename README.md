@@ -5,6 +5,8 @@ DevCard adalah halaman kartu profil interaktif dengan fitur dark mode dan like c
 
 ## Visualisasi
 
+<img width="946" height="439" alt="Screenshot 2026-09-20 163839" src="https://github.com/user-attachments/assets/fe6165cd-a4d8-4185-94bc-77b789bcfb49" />
+
 <img width="1366" height="768" alt="Cuplikan layar 2026-09-20 164433" src="https://github.com/user-attachments/assets/66328623-8a61-4e4f-9aa2-919c531d8062" />
 
 ---
