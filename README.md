@@ -7,10 +7,6 @@ DevCard adalah halaman kartu profil interaktif dengan fitur dark mode dan like c
 
 <img width="1366" height="768" alt="Cuplikan layar 2026-09-20 164433" src="https://github.com/user-attachments/assets/66328623-8a61-4e4f-9aa2-919c531d8062" />
 
-![Screenshot](Cuplikan layar 2026-09-20 164433)
-
-Live Demo: [link-demo-jika-ada](#)
-
 ---
 
 ## Tech Stack
@@ -34,11 +30,11 @@ Live Demo: [link-demo-jika-ada](#)
 
 ## Contribution
 
-| Jokowi Muda | Role | Kontribusi |
+| KIA bersatu | Role | Kontribusi |
 |---|---|---|
-| [Nama Anggota 1] | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
-| [Nama Anggota 2] | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
-| [Nama Anggota 3] | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
+| Dewa Ayu Putu Kintara | Project Initiator | Membuat repository, mengatur akses kolaborator, commit `index.html` |
+| Jooceline Alexandria | Styling Engineer | Membuat branch `styling`, menambahkan & menghubungkan `style.css` |
+| Ni Putu Gracia Intan Puspacitra | Script Engineer | Membuat branch `scripting`, menambahkan & menghubungkan `script.js` |
 
 ---
 
